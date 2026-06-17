@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_dashboard">
+
+    <fragment
+        android:id="@+id/nav_dashboard"
+        android:name="com.acsis.medicamentos.ui.fragment.DashboardFragment"
+        android:label="@string/nav_home"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/nav_medications"
+        android:name="com.acsis.medicamentos.ui.fragment.MedicationsFragment"
+        android:label="@string/nav_medications"
+        tools:layout="@layout/fragment_medications_list" />
+
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.acsis.medicamentos.ui.fragment.HistoryFragment"
+        android:label="@string/nav_history"
+        tools:layout="@layout/fragment_history" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.acsis.medicamentos.ui.fragment.ProfileFragment"
+        android:label="@string/nav_profile"
+        tools:layout="@layout/fragment_profile" />
+
+</navigation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic placeholder images -->
+    <drawable name="ic_home">@android:drawable/ic_menu_view</drawable>
+    <drawable name="ic_pills">@android:drawable/ic_menu_my_calendar</drawable>
+    <drawable name="ic_history">@android:drawable/ic_menu_info_details</drawable>
+    <drawable name="ic_profile">@android:drawable/ic_menu_manage</drawable>
+    <drawable name="ic_menu">@android:drawable/ic_menu_more</drawable>
+    <drawable name="ic_back">@android:drawable/ic_menu_back</drawable>
+    <drawable name="ic_acsis_logo">@android:drawable/ic_dialog_info</drawable>
+</resources>
