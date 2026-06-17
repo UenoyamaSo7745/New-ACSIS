@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "New-ACSIS"
+rootProject.name = "New ACSIS"
 include(":app")
