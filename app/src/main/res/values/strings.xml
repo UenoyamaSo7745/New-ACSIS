@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACSIS - Mágicas Medicinas</string>
+    <string name="app_name_short">ACSIS</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_title">Mágicas Medicinas</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="email_hint">tu@email.com</string>
+    <string name="password_label">Contraseña</string>
+    <string name="password_hint">••••••••</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="register_link">Regístrate</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Crear cuenta</string>
+    <string name="full_name_label">Nombre completo</string>
+    <string name="full_name_hint">Tu nombre</string>
+    <string name="confirm_password_label">Confirmar contraseña</string>
+    <string name="confirm_password_hint">••••••••</string>
+    <string name="register_button">Registrarse</string>
+    <string name="have_account">¿Ya tienes cuenta?</string>
+    <string name="login_link">Inicia sesión</string>
+    <string name="back_button">Atrás</string>
+
+    <!-- Dashboard -->
+    <string name="next_dose">Próxima Dosis</string>
+    <string name="medications_label">Medicamentos</string>
+    <string name="add_medication">+ Agregar Medicamento</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_medications">Mis Pastillas</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Medications -->
+    <string name="medication_name">Nombre del Medicamento</string>
+    <string name="medication_dosage">Dosis</string>
+    <string name="medication_stock">Stock</string>
+    <string name="medication_expiration">Vencimiento</string>
+    <string name="scan_box">Escanear Caja</string>
+    <string name="search_name">Buscar Nombre</string>
+    <string name="select_type">Seleccionar Tipo</string>
+    <string name="quick_list">Lista Rápida</string>
+
+    <!-- Reminders -->
+    <string name="reminder_time">Hora del Recordatorio</string>
+    <string name="add_reminder">Agregar Recordatorio</string>
+    <string name="reminder_added">Recordatorio agregado</string>
+
+    <!-- History -->
+    <string name="history_title">Historial</string>
+    <string name="weekly_summary">Resumen Semanal</string>
+    <string name="doses_taken">Dosis Tomadas</string>
+    <string name="doses_missed">Dosis Faltantes</string>
+    <string name="next_reminder">Siguiente Recordatorio</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Perfil</string>
+    <string name="my_pills">Mis Pastillas</string>
+    <string name="my_reminders">Recordatorios</string>
+    <string name="emergency_contact">Llamar a Emergencia</string>
+    <string name="settings">Ajustes</string>
+    <string name="logout">Cerrar Sesión</string>
+
+    <!-- Messages -->
+    <string name="loading">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="success">Éxito</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="save">Guardar</string>
+</resources>

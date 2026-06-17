@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6B6B</color>
+    <color name="primary_dark">#8B0000</color>
+    <color name="primary_light">#FFB3B3</color>
+
+    <!-- Konosuba Theme Colors -->
+    <color name="aqua_blue">#80DEEA</color>
+    <color name="aqua_light">#B3E5FC</color>
+    <color name="aqua_dark">#00ACC1</color>
+
+    <color name="golden_yellow">#FFD740</color>
+    <color name="golden_light">#FFEB3B</color>
+    <color name="golden_dark">#FBC02D</color>
+
+    <color name="deep_red">#8B0000</color>
+    <color name="dark_red">#C41C3B</color>
+    <color name="light_red">#FF6B6B</color>
+
+    <color name="purple_accent">#BA68C8</color>
+    <color name="purple_light">#CE93D8</color>
+    <color name="purple_dark">#8E24AA</color>
+
+    <!-- Text Colors -->
+    <color name="text_dark">#2C3E50</color>
+    <color name="text_light">#ECEFF1</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- UI Colors -->
+    <color name="border">#E0E0E0</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start_splash">#8B0000</color>
+    <color name="gradient_end_splash">#FF6B00</color>
+    <color name="gradient_start_login">#80DEEA</color>
+    <color name="gradient_end_login">#FFE082</color>
+    <color name="gradient_start_card">#B39DDB</color>
+    <color name="gradient_end_card">#E1BEE7</color>
+</resources>
