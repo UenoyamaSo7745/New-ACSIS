@@ -47,9 +47,9 @@ android {
     }
 
     lint {
-        // Suppress non-critical warnings that don't affect functionality
-        abortOnError = false
-        checkReleaseBuilds = false
+        // Suppress only known non-critical issues; do not disable error reporting globally
+        disable += "ObsoleteSdkInt"
+        disable += "InvalidPackage"
     }
 }
 
